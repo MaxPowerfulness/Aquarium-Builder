@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+/* Header */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #6ea1b8
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    gap: 80px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-link {
+    border: 3px solid #b4daea;
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: #f59b1b;
+    color: rgb(20, 20, 20);
+}
