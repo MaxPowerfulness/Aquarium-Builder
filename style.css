@@ -28,3 +28,23 @@ a {
     background-color: #f59b1b;
     color: rgb(20, 20, 20);
 }
+
+/* Section 1 */
+#section-1 {
+    background: black;
+    background-image: url('./images/fish.jpg');
+    min-height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+button {
+    padding: 20px 35px;
+    font-size: 20px;
+    position: absolute;
+    top: 59%;
+    right: 25%;
+    background: black;
+    border: solid 2px rgb(241, 231, 79);
+    color: white;
+}
